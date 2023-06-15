@@ -1,2 +1,2 @@
-# Capstone project
-This repository is created for Data Science professional certification Capstone project
+# Capstone applied data science project
+City environment and quality of living analysis!
