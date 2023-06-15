@@ -1,2 +1,2 @@
-# Capstone applied data science project
-City environment and quality of living analysis!
+# City environment and quality of living analysis!
+This is a capstone project for a data science certification course
