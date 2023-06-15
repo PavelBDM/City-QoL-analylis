@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This repository is created for Coursera Capstone project
+# Capstone project
+This repository is created for Data Science professional certification Capstone project
